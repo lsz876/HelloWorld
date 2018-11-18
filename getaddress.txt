@@ -1,0 +1,3 @@
+https://api2.sktelecom.com/tmap/geo/reversegeocoding?version=1&lat=37.28&lon=126.37&coordType=WGS84GEO&addressType=A02&appKey=ef385f85-785c-41cb-9e0f-4faa2610d8b1
+
+{"addressInfo": {    "fullAddress": "인천광역시 옹진군 자월면 자월리 산1",    "addressType": "A02",    "city_do": "인천광역시",    "gu_gun": "옹진군",    "eup_myun": "",    "adminDong": "",    "adminDongCode": "",    "legalDong": "자월면",    "legalDongCode": "2872037021",    "ri": "자월리",    "bunji": "산1",    "roadName": "",    "buildingIndex": "",    "buildingName": "",    "mappingDistance": "",    "roadCode": ""  }}  
